@@ -3,4 +3,9 @@
     <string name="log_in">Log In</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
+    <string name="nama_tempat">Nama Tempat</string>
+    <string name="rate_the_place">Rate the place</string>
+    <string name="your_review">Your review</string>
+    <string name="rate_now">Rate Now !</string>
+    <string name="what_do_you_think_about_the_place">What do you think about the place?</string>
 </resources>
